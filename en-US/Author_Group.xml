@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE authorgroup PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "faq.ent">
+%BOOK_ENTITIES;
+]>
+<authorgroup>
+    <author>
+      <firstname>Paul</firstname>
+      <surname>Kater</surname>
+<!-- affiliation>
+        <address>
+          <email>paul at nlpagan.net</email>
+        </address>
+      </affiliation -->    </author>
+    <author>
+      <firstname>Jens</firstname>
+      <surname>Oberender</surname>
+<!-- affiliation>
+        <address>
+          <email>j.obi at troja.net</email>
+        </address>
+      </affiliation -->    </author>
+    <author>
+      <firstname>Francois</firstname>
+      <surname>Barriere</surname>
+<!-- affiliation>
+        <address>
+          <email>barriere.francois at libertysurf.fr</email>
+        </address>
+      </affiliation -->    </author>
+    <author>
+      <firstname>Olivier</firstname>
+      <surname>Delhomme</surname>
+<!-- affiliation>
+        <address>
+          <email>olivier.delhomme at free.fr</email>
+        </address>
+      </affiliation -->    </author>
+    <author>
+      <firstname>Petr</firstname>
+      <surname>Kovar</surname>
+<!-- affiliation>
+        <address>
+          <email>pknbe at volny.cz</email>
+        </address>
+      </affiliation -->    </author>
+</authorgroup>
+
